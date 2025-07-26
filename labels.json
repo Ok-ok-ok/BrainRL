@@ -1,0 +1,16 @@
+{
+    "L Hippocampus": 1,
+    "R Hippocampus": 2,
+    "L Caudate": 3,
+    "R Caudate": 4,
+    "L Putamen": 5,
+    "R Putamen": 6,
+    "L Thalamus": 7,
+    "R Thalamus": 8,
+    "L Precuneus": 9,
+    "R Precuneus": 10,
+    "L Cingulate Gyrus": 11,
+    "R Cingulate Gyrus": 12,
+    "L Insula": 13,
+    "R Insula": 14
+}
